@@ -1,0 +1,16 @@
+Id,firstName,lastName,salary,managerId
+100,John,Smith,120000,
+201,Sarah,Johnson,85000,100
+202,Michael,Davis,90000,100
+303,Emily,Wilson,65000,201
+304,David,Brown,68000,201
+405,Lisa,Anderson,65250,303
+406,James,Taylor,48000,303
+407,Robert,Miller,70000,202
+408,Jennifer,White,35000,405
+409,William,Martin,32000,408
+123,Joe,Doe,60000,409
+124,Martin,Chekov,45000,409
+125,Bob,Ronstad,47000,405
+300,Alice,Hasacat,50000,405
+305,Brett,Hardleaf,34000,405
